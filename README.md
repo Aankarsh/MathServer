@@ -1,18 +1,18 @@
-# Ex - 05 
+# Ex - 5 
 # Design a Website for Server Side Processing
-## Date: 07/11/24
+## Date : 7/11/24
 
-## AIM:
+## AIM :
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
 
 
-## FORMULA:
+## FORMULA :
 P = I<sup>2</sup>R
 <br> P --> Power (in watts)
 <br> I --> Intensity
 <br> R --> Resistance
 
-## DESIGN STEPS:
+## DESIGN STEPS :
 
 ### Step 1:
 Clone the repository from GitHub.
@@ -140,9 +140,9 @@ Publish the website in the given URL.
 
 
 
-## SERVER SIDE PROCESSING:
+## SERVER SIDE PROCESSING :
 ![Mathserver 2](https://github.com/user-attachments/assets/d15dbbb9-54e9-442b-b859-07223b945b66)
-## HOMEPAGE:
+## HOMEPAGE :
 ![Lamp Filament 2](https://github.com/user-attachments/assets/8acb9156-0a2b-4e58-bc29-a3429553b76c)
-## RESULT:
+## RESULT :
 The program for performing server side processing is completed successfully.
